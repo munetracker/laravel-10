@@ -1,13 +1,9 @@
-References
-    - https://laravel.com/docs/10.x/releases
-    - https://www.youtube.com/playlist?list=PLe30vg_FG4OTxKekbWLABcpstdeCDA4LQ
+### Laravel 10 - Livewire 3-beta - Php 8.1
 
-Episode 2
-    - https://www.youtube.com/watch?v=VnU6KFDGm-w&list=PLe30vg_FG4OTxKekbWLABcpstdeCDA4LQ&index=2
+Notes:
+git commit -am "added file"
+git push origin master
 
-    Notes:
-        - 
-
-
-
-
+git add .
+git commit -m "added file"
+git push origin master
